@@ -7,6 +7,7 @@ A sandbox project to practice collaboration and SCM flow
 Feature branch --> development --> release --> master (production)
 - PRs require review and approval
 - Branch must pass 'notional' CI/CD stage before merge
+- When creating a feature branch, cut from development branch
 
 ## Master
 
